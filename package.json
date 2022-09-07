@@ -1,0 +1,23 @@
+{
+  "name": "fullstack_tdd_vegetable_garden",
+  "version": "1.0.0",
+  "description": "My notes and used resources for this assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limonije/Fullstack_TDD_vegetable_garden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limonije/Fullstack_TDD_vegetable_garden/issues"
+  },
+  "homepage": "https://github.com/limonije/Fullstack_TDD_vegetable_garden#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
